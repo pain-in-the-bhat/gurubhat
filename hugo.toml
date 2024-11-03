@@ -1,6 +1,0 @@
-baseURL = 'https://pain-in-the-bhat.github.io/gurubhat/'
-languageCode = 'en-us'
-title = 'Guru Bhat'
-theme = 'PaperMod'
-
-publishDir = "docs"
