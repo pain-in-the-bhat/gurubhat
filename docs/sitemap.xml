@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/gurubhat/docs/</loc>
+    <loc>https://pain-in-the-bhat.github.io/gurubhat/docs/</loc>
     <lastmod>2024-11-03T20:09:10+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/gurubhat/</loc>
+    <loc>https://pain-in-the-bhat.github.io/gurubhat/</loc>
     <lastmod>2024-11-03T20:09:10+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/gurubhat/docs/hello/</loc>
+    <loc>https://pain-in-the-bhat.github.io/gurubhat/docs/hello/</loc>
     <lastmod>2024-11-03T20:09:10+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/gurubhat/categories/</loc>
+    <loc>https://pain-in-the-bhat.github.io/gurubhat/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/gurubhat/tags/</loc>
+    <loc>https://pain-in-the-bhat.github.io/gurubhat/tags/</loc>
   </url>
 </urlset>
