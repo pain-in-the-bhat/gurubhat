@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Docs on Guru Bhat</title>
-    <link>https://pain-in-the-bhat.github.io/gurubhat/docs/</link>
+    <link>http://localhost:1313/gurubhat/docs/</link>
     <description>Recent content in Docs on Guru Bhat</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Nov 2024 20:09:10 +0530</lastBuildDate>
-    <atom:link href="https://pain-in-the-bhat.github.io/gurubhat/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/gurubhat/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>https://pain-in-the-bhat.github.io/gurubhat/docs/hello/</link>
+      <link>http://localhost:1313/gurubhat/docs/hello/</link>
       <pubDate>Sun, 03 Nov 2024 20:09:10 +0530</pubDate>
-      <guid>https://pain-in-the-bhat.github.io/gurubhat/docs/hello/</guid>
+      <guid>http://localhost:1313/gurubhat/docs/hello/</guid>
       <description>&lt;p&gt;Hi&lt;/p&gt;</description>
     </item>
   </channel>
